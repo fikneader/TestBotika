@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestBotika</string>
+    <string name="email">Masukan email</string>
+    <string name="hint_password">Masukan password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_forgot_password">Mau masuk tapi lupa password? klik disini!</string>
+    <string name="btn_link_to_register">Belum punya akun? daftar disini!</string>
+</resources>
